@@ -1,0 +1,6 @@
+{
+  "name": "Kotha AI",
+  "description": "Multilingual Bengali & English advanced voice assistant with natural speech, long-term memory, device actions, and multimodal screen help.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

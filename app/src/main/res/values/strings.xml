@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Kotha AI</string>
+    <string name="nav_assistant">Voice</string>
+    <string name="nav_memory">Memory</string>
+    <string name="nav_settings">Settings</string>
+    <string name="orb_cd_listen">Start voice listening</string>
+    <string name="orb_cd_stop">Stop listening or speaking</string>
+    <string name="attach_screen_cd">Attach screenshot or photo for screen help</string>
+    <string name="mic_permission_rationale">Microphone access lets Kotha AI listen to your voice commands in Bengali and English.</string>
+    <string name="grant_mic_permission">Enable Microphone</string>
+    <string name="status_online">Cloud AI Ready</string>
+    <string name="status_offline">Offline On-Device</string>
+    <string name="status_incognito">Private Session</string>
+    <string name="input_hint">Ask in বাংলা, English, or Banglish…</string>
+    <string name="send_cd">Send message</string>
+    <string name="new_chat_cd">Start a new conversation</string>
+    <string name="toggle_stage_cd">Switch between Companion Character Stage and Chat Transcript</string>
+    <string name="character_avatar_cd">Kotha 3D companion character</string>
+    <string name="quick_weather_cd">Check live weather</string>
+    <string name="quick_music_cd">Open music player</string>
+    <string name="quick_time_cd">Speak current time</string>
+    <string name="quick_briefing_cd">Get Gemini personalized daily briefing</string>
+    <string name="quick_translate_cd">Toggle live Bengali and English voice translator</string>
+    <string name="quick_torch_cd">Toggle device flashlight</string>
+    <string name="live_gemini_talk">Live Talk</string>
+    <string name="end_live_talk">End Live</string>
+    <string name="live_gemini_talk_cd">Start or stop real-time Live Gemini voice conversation</string>
+    <string name="edge_glow_settings_title">Display Edge Glow</string>
+</resources>
